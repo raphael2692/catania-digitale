@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'it-it'
+title = 'Catania Digitale'
+
+theme = 'coyote'
+
+[outputs]
+  home = ['HTML', 'JSON']
