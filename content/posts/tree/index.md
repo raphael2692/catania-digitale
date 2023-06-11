@@ -8,6 +8,7 @@ external_url: https://tree.it
 #    - test
 tags:
    - consulenza 💡
+   - marketing 🔥
 ---
 
 Tree è una PMI innovativa che si occupa di abilitare i contenuti, gli eventi e gli ecosistemi per produrre valore e generare opportunità. Tree offre servizi di Open Innovation, Education e Communication, con un team appassionato e competente, diffuso in tutta Italia. Tree collabora con una rete di clienti e partner di eccellenza, con una visione orientata alla sostenibilità, alla responsabilità e all’impatto. Tree cerca persone con passione, pensiero critico, trasparenza e skill tecniche e soft.
