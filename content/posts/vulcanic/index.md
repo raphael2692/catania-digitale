@@ -17,6 +17,6 @@ tags:
    # - eventi 🎉
 ---
 
-Youth Hub Catania è un’associazione no-profit che si occupa di promuovere lo spirito imprenditoriale tra gli studenti e gli aspiranti startupper. L’associazione organizza eventi, workshop, hackathon e altre iniziative per favorire la creazione di una rete di contatti e di opportunità nel settore dell’innovazione.
+Vulcanic è l'incubatore che sorge tra tradizione e innovazione a sostegno di progetti digitali e industria 4.0. 
 
-Scopri di più sul sito di [YouthHub](https://www.vulcanic.it/)!
+Scopri di più sul sito di [Vulcanic](https://www.vulcanic.it/)!
