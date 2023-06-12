@@ -7,14 +7,7 @@ external_url: https://devmy.it
 # categories:
 #    - 
 tags:
-   # - Product 📦
-   # - Consulting 💡
-   - Accelerator/Incubator 🐣
-   # - Community 🌎
-   # - Startup  🚀
-   # - Co-working 🖥️
-   # - Training 🎓
-   # - Events 🎉
+   - incubatore🐣
 ---
 
 Devmy è un acceleratore/incubatore di startup che si occupa di supportare le imprese innovative in ogni fase della loro vita. L'obiettivo di Devmy è quello di offrire un ambiente favorevole alla creazione e al sviluppo di imprese tecnologiche di successo. 
