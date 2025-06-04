@@ -1,6 +1,5 @@
 <div class="pagination">
-  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-  {{- $paginator := .Paginate $pages }}
+  {{- $paginator := . }}
 
   {{ range $paginator.Pagers }}
     <div class="pagination__item">

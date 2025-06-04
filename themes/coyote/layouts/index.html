@@ -11,7 +11,7 @@
   </section>
 
   {{- if gt $paginator.TotalPages 1 }}
-    {{- partial "pagination.html" . -}}
+    {{- partial "pagination.html" $paginator -}}
   {{- end }}
 
 {{ end }}
