@@ -11,7 +11,8 @@
 
   <div class="results">
     {{- $pages := union .RegularPages .Sections }}
-    {{ range $pages }}
+    {{- $paginator := .Paginate $pages }}
+    {{ range $paginator.Pages }}
     <div class="resultItem">
       <div class="resultItem__media" style="background-image: url({{ (print .Permalink .Params.image) | absURL }});"></div>
       <div class="resultItem__body">
@@ -21,5 +22,8 @@
     </div>
     {{ end }}
   </div>
+  {{- if gt $paginator.TotalPages 1 }}
+    {{- partial "pagination.html" $paginator -}}
+  {{- end }}
 </section>
 {{- end }}
